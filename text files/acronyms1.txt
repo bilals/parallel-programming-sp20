@@ -1,0 +1,1579 @@
+2D	2-Dimensional
+3D	3-Dimensional
+3M	Minnesota Mining and Manufacturing
+4GL	Fourth Generation Language
+4H	Head, Heart, Hands, Health
+4WD	Four wheel Drive (see also FWD)
+A	Aftermath
+AA	Affirmative Action committee
+AA	Alcoholics Anonymous
+AA	Antiaircraft Artillery
+AA	Associate in Accounting
+AA	Automobile Association [England]
+A&A	Astronomy and Astrophysics [Space]
+AAA	American Automobile Association
+AAAL	American Academy of Arts and Letters
+AAAS	American Association for the Advancement of Science
+AAII	American Association of Individual Investors
+AAMSI	American Association for Medical Systems Informatics
+AAO	Anglo-Australian Observatory [Space]
+AAP	Affirmative Action Program
+AARC	Anglo-American Cataloging Rules
+AARN	Australian Academic Research Network [Networking]
+AARP	American Association of Retired Persons
+AAS	American Astronomical Society [Space]
+AAVSO	American Association of Variable Star Observers [Space]
+AB	ABle seaman
+ABA	American Bar Association
+ABA	American Basketball Association
+ABA	American Booksellers Association
+ABBR	ABBReviation
+ABC	American Broadcasting Company [Corporate name]
+AC	Alternating Current (ac, see also DC)
+AC	Ante Christum (before Christ)
+AC	Ante Cibum (before meals)
+ACAA	Agricultural Conservation and Adjustment Administration
+ACAWS	Advisory, Caution, And Warning System
+ACBL	American Contract Bridge League
+ACC	Argonne Code Center
+ACCS	Army Command and Control System
+ACD	Automatic Call Distributor [Telephony]
+ACE	Advanced Composition Explorer [Space]
+ACE	Advanced Computing Environments [Corporate name]
+ACE	Automatic Calibration and Equalization
+ACHEFT	Automated ClearingHouse Electronic Funds Transfer
+ACK	ACKnowledge
+ACL	Advanced Cmos Logic
+ACLU	American Civil Liberties Union
+ACM	Association for Computing Machinery
+ACRV	Assured Crew Return Vehicle (or) Astronaut Crew Rescue Vehicle [Space]
+ACS	Advanced Communications System
+ACSE	Association Control Service Entity (ISO/CCITT layer 7)
+ACT	Action for Children's Television (in Cambridge, MA)
+ACT	American Conservatory Theater
+ACTS	Advanced Communications Technology Satellite
+ACTS	Automatic Coin Telephone Service [Telephony]
+ACU	Alarm Control Unit
+ACU	Automatic Call Unit [Telephony]
+ACW	Alternating Continuous Waves
+AD	After Date
+A/D	Analog to Digital converter (see ADC)
+AD	Anno Domini (in the year of our Lord)
+AD	Application Development
+ADAP	Alzheimer's disease-associated protein
+ADAP	American Discount Auto Parts [Corporate name]
+ADB	A DeBugger
+ADB	Apple Desktop Bus
+ADC	Analog to Digital Converter
+ADCI	Automatic Display Call Indicator 
+AD&D	Advanced Dungeons & Dragons
+ADF	Automatic Direction Finder
+ADM	ADMiral
+ADP	Adenosine Di-Phosphate
+ADP	Administrative Data Processing
+ADP	Advanced Data Processing
+ADPCM	Pulse Code Modulation with Adaptive Quantization
+ADS	Application Development System
+ADSR	Attack Decay Sustain Release
+ADT	Abstract Data Type
+ADT	Atlantic Daylight Time
+AE	Application Execution
+AEA	American Electronics Association
+AEC	Atomic Energy Commission
+AEF	American Expeditionary Force (see BEF)
+AEGIS	Advanced Electronic Guidance and Instrumentation System
+AF	Adventures in Fantasy
+AF	Air Force
+AF	Audio Frequency
+AFADS	Automatic Force Adjustment Data System 
+AFATDS	Advanced Field Artillery Tactical Data System
+AFB	Air Force Base
+AFC	American Football Conference
+AFC	Automatic Flight Control
+AFC	Automatic Frequency Control
+AFCAC	Air Force Computer Acquisition Center
+AFCC	Air Force Communications Command
+AFGE	American Federation of Government Employees
+AFIPS	American Federation of Information Processing Societies
+AFL	American Federation of Labor
+AFL	American Football League
+AFLCIO	American Federation of Labor and Congress of Industrial Organizations
+AFNOR	Association Francaise de NORmalization
+AFP	Appletalk Filing Protocol
+AFS	Andrew File System
+AFSC	Air Force Systems Command
+AFSCME	American Federation of State, County and Municipal Employees
+AFTRA	American Federation of Television and Radio Artists
+AG	Adjutant General
+AG	Arcade Game
+AG	Attorney General
+AGCT	Army General Classification Test
+AGN	Active Galactic Nucleus [Space]
+AHL	American Hockey League
+AHQ	Air HeadQuarters
+AI	Artificial Intelligence
+AIAA	American Institute of Aeronautics and Astronautics [Space]
+AIC	Automatic Intercept Center 
+AID	Agency for International Development
+AIDDE	Ames' Interactive Dynamic Display Editor
+AIDS	Acquired ImmunoDeficiency Syndrome
+AIOD	Automatic Identification Outward Dialing 
+AIS	Automatic Intercept System
+AIX	Advanced Interactive eXecutive (IBM's name for UNIX)
+AJ	Astronomical Journal [Space]
+AK	Alaska
+AKA	Also Known As
+AL	Alabama [US state postal designation]
+AL	American League (baseball)
+ALA	American Library Association
+ALA	Automobile Legal Association
+ALBM	Air-to-Land Ballistic Missile
+ALC	Automatic Load Control
+ALGOL	ALGOrithmic Language
+ALIT	Automatic Line Insulation Testing [Telephony]
+ALPO	Association of Lunar and Planetary Observers [Space]
+ALS	Advanced Launch System [Space]
+ALU	Arithmetic Logic Unit
+A&M	Agricultural and Mechanical
+AM	Amplitude Modulation
+AM	Ante Meridiem (before noon)
+AMA	American Medical Association
+AMA	Automatic Message Accounting [Telephony]
+AMARC	Automatic Message Accounting Recording Center 
+AMBA	Association of Master of Business Administration
+AMC	Albany Medical College
+AMC	American Motors Corporation(?) [Corporate name]
+AMC	Appalachian Mountain Club
+AMD	Advanced Micro Devices [Corporate name]
+AMEX	AMerican EXpress [Corporate name]
+AMI	Alternate Mark Inversion (see also NRZ, NRZI, B8ZS)
+AMORC	Ancient Mystic Order Rosae Crucis
+AMP	Adenosine MonoPhosphate
+AMPAS	Academy of Motion Picture Arts and Sciences
+AMPAS	Acedemy of Motion Picture Arts and Sciences
+AMRAAM	Advanced Medium Range Air-To-Air Missile
+AMROC	American Rocket Company [Space]
+AMSAT	radio AMateur SATellite corp.
+AMU	Atomic Mass Unit
+AMVET	AMerican VETeran
+ANA	American Nurses Association
+ANAC	Automatic Number Announcemnt Circuit [Telephony]
+ANC	All Number Calling [Telephony]
+ANC	Army Nurse Corps
+ANDF	Architecture-Neural Distribution Format
+ANF	Automatic Number Forwarding [Telephony]
+ANG	Air National Guard
+ANI	Automatic Number Identification (see also: CLID) [Telephony]
+ANL	Argonne National Laboratory
+ANOVA	ANalysis Of VAriance
+ANPA	American Newspaper Publishers Association
+ANSI	American National Standards Institute
+ANZUS	Australia, New Zealand, United States
+AO	Account Of
+AOA	Abort Once Around [NASA, Shuttle]
+AOA	Abort Once Around (Shuttle abort plan) [Space]
+AOL	Absent Over Leave (see AWOL)
+AOS	Academic Operating System
+AOS	Alternate Operator Service [Telephony]
+A/P	Accounts Payable
+AP	Additional Premium
+AP	All Points
+AP	Associated Press [Corporate name]
+APA	All Points Addressable
+APA	American Psychological Association
+APB	All Points Bulletin
+APDA	Apple Programmers and Developers Association
+API	Application Programming Interface
+APICS	American Production and Inventory Control Society
+Ap.J	Astrophysical Journal [Space]
+APL	A Programming Language
+APL	acute promyelocytic leukemia [Disease]
+APO	Alpha Phi Omega, service fraternity
+APO	Army Post Office
+APP	Applications Portability Profile
+APPC	Advanced Peer-to-Peer Communications
+APR	Annual Percentage Rate (as in loan interest)
+APSE	Ada Programming Support Environment
+APU	Auxiliary Power Unit [Space]
+AQ	Accumulator-Quotient register
+A/R	Accounts Receivable
+AR	Address Register
+AR	Arkansas
+ARC	AIDS-related complex
+ARC	American Red Cross
+ARC	Ames Research Center (NASA) [Space]
+ARCNET	Attached Resource Computer local area NETwork
+ARO	After Receipt of Order
+ARP	Address Resolution Protocol
+ARPA	Advanced Research Projects Agency (of the DoD, see DARPA)
+ARPANET ARPA (q.v.) NETwork
+ARRL	Amateur Radio Relay League
+ARV	American Revised Version
+AS	Anglo-Saxon
+ASA	Acetyl Salicylic Acid
+ASAP	As Soon As Possible
+ASC	Accredited Standards Committee
+ASCAP	American Society of Composers, Authors, and Publishers
+ASCC	Automatic Sequence-Controlled Calculator
+ASCII	American Standard Code for Information Interchange
+ASDIC	Anti-Submarine Detection Investigation Committee (British for sonar)
+ASDSP	Application-Specific Digital Signal Processor
+ASG	Automated Sciences Group
+ASHRAE	Amer. Soc. of Heating, Refrigerating and Air-cond. Engineers, inc.
+ASIC	Application Specific Integrated Circuit
+ASME	American Society of Mechanical Engineers
+ASN	Abstract Syntax Notation One (ISO/CCITT ASN.1)
+ASP	Aggregated Switch Procurement
+ASRM	Advanced Solid Rocket Motor [Space]
+ASSR	Autonomous Soviet Socialist Republic
+AST	Atlantic Standard Time
+ASV	American Standard Version
+AT	Atlantic Time
+ATA	Automatic Trouble Analysis 
+ATACC	Advanced Tactical Air Command Central
+ATB	Advanced Technology Bomber (stealth bomber)
+ATC	Air Traffic Control
+ATDRS	Advanced Tracking and Data Relay Satellite [Space]
+ATF	Advanced Technology Fighter
+ATIS	Atherton Tools Interface Specification
+ATLAS	Atmospheric Laboratory for Applications and Science [Space]
+ATM	Amateur Telescope Maker [Space]
+ATM	Asynchronous Transfer Mode
+ATM	Automatic Teller Machine
+ATO	Abort To Orbit [NASA, Shuttle]
+ATO	Abort To Orbit (Shuttle abort plan) [Space]
+ATOMS	AT&t Optimized Materials Simulator
+ATP	Adenosine TriPhosphate
+ATPCO	Airline Tariff Publishing COmpany
+AT&T	American Telephone & Telegraph [Corporate name]
+ATT	American Telephone & Telegraph (normally written AT&T when seperate)
+ATTIS	American Telephone and Telegraph Information Systems [AT&T] (Division)
+ATV	All Terrain Vehicle
+AU	Astronomical Unit (93,000,000 miles) [Space]
+AU	Astronomical Unit [Space]
+AUI	Attachment Universal Interface
+AURA	Association of Universities for Research in Astronomy [Space]
+AUS	Army of the United States
+AUTODIN AUTOmatic DIgital Network
+AUTOVON AUTOmatic VOice Network
+AV	AudioVisual
+AVLIS	Atomic Vapor Laser Isotope Separation
+AWACS	Airborne Warnings And Control Systems
+AWEA	American Wind Energy Association
+AWK	al Aho, peter Weinberger, brian Kernighan (pattern scanning language)
+AWOL	Absent WithOut Leave (also Absent Without Official Leave) (see AOL)
+AW&ST	Aviation Week and Space Technology (a.k.a. AvLeak) [Space]
+AXAF	Advanced X-ray Astrophysics Facility [Space]
+AZ	Arizona
+B	Book
+B8ZS	Binary 8 Zero Substitution (see also NRZ, NRZI, AMI)
+BA	Bachelor of Arts
+BACH	Business Alliance for Commerce in Hemp
+BAFO	Best And Final Offer
+BARRNet Bay Area Regional Research Network (SF Bay Area)
+BASIC	Beginner's All-purpose Symbolic Instruction Code
+BATSE	Burst And Transient Source Experiment (on GRO) [Space]
+BB	Bases on Balls
+BB	Best of Breed
+BB	Bunnies and Burrows
+BBA	Bachelor of Business Administration
+BBB	Better Business Bureau
+BBC	British Broadcasting Corporation
+BBL	Barrel
+BBN	Bolt, Beranek, and Newman, Inc. [Corporate name]
+BBXRT	Broad-Band X-Ray Telescope (ASTRO package) [Space]
+BC	Battlecars
+BC	Before Christ
+BC	British Columbia
+BC/BS	Blue Cross/Blue Shield
+BCD	Bad Conduct Discharge
+BCD	Binary Coded Decimal
+BCDIC	Binary Coded Decimal Interchange Code
+BCE	Before the Common Era (substitute for BC)
+BCNU	Be Seeing You [Net jargon]
+BCP	Byte Controlled Protocols
+BCPL	Basic Combined Programming Language
+BCS	Bachelor of Commercial Science
+BCS	Binary Compatibility Standard
+BCS	Boston Computer Society
+BCS	British Computer Society
+BD	Bachelor of Divinity
+BD	Bank Draft
+BD	Bills Discounted
+BD&D	Basic Dungeons & Dragons
+BDF	Binary Distribution Format
+BDT	Billing Data Transmitter
+BE	Bill of Exchange
+BEF	British Expeditionary Force (see AEF)
+BELCORE BELL COmmunications REsearch
+BEM	Bug Eyed Monster
+BEM	Bug-Eyed Monster [Space]
+BENELUX BElgium, NEtherlands, and LUXembourg
+BER	Bit Error Rate
+BERT	Bit Error Rate Test
+BEST	Borland Enhanced Support and Training
+BF	Brought Forward
+BFA	Bachelor of Fine Arts
+BFD	Bristol (RI) Fire Department (probably typical of any town starting "B")
+BH	Black Hole [Space]
+BH	Boot Hill
+BHP	Brake HorsePower
+BICS	Building Industry Consulting Services [Telephony]
+BID	Bis In Die (twice a day)
+BIMA	Berkeley Illinois Maryland Array [Space]
+BIOS	Basic Input Output System
+BIS	Business Information System
+BISDN	Broadband ISDN (q.v.) [Telephony]
+BiSync	Binary Synchronous Communications (BSC is preferred) [IBM]
+Bit	BInary digiT
+BITNET	Because It's Time Network
+BLAST	BLocked ASynchronous Transmission
+BLERT	BLock Error Rate Test
+BLF	Busy Lamp Field [Telephony]
+BLT	Bacon, Lettuce, and Tomato (sandwich)
+BLT	BLock Transfer [Instruction]
+BLT	Branch Less Than [Instruction]
+BM	Basal Metabolism
+BM	Bowel Movement
+BMA	Bank Marketing Association
+BMEWS	Ballistic Missile Early Warning
+BMO	Ballistic Missile Office
+BMOC	Big Man On Campus
+BMR	Basal Metabolism Rate
+BNC	Bayonet Neill Concelman (connector) [Electronics] (see also TNC)
+BNF	Bachus-Naur Form
+BO	Body Odor
+BO	Branch Office
+BO	Buyer's Option
+BOC	Bell Operating Company
+BOD	Board Of Directors
+BOF	Birds Of a Feather
+BOM	Bill Of Materials
+BOOTP	Bootstrap Protocol [Internet]
+BOQ	Bachelor Officers' Quarters
+BOS	Business Office Supervisor
+BOSIX	Biin Open System Interface eXtension
+BP	Blood Pressure
+BP	British Petroleum
+BP	British Pharmacopoeia
+BPI	Bits Per Inch
+BPL	Boston Public Library
+BPL	Branch if PLus [Instruction]
+BPOE	Benevolent and Protective Order of Elks
+BPS	Bits Per Second
+BR	Bills Receivable
+BR	British Rail
+BRA	Boston Redevelopment Authority
+BRI	Basic Rate Interface (ISDN) [Telephony]
+BRIEF	Basic Reconfigurable Interactive Editing Facility
+BRL	army Ballistic Research Laboratory
+BRS	Bibliographic Retrieval Service
+BS	Bachelor of Science
+BS	Bill of Sale
+BSA	Birmingham Small Arms
+BSA	Boy Scouts of America
+BSc	Bachelor of SCience
+BSC	Binary Synchronous Communications (also sometimes BiSync) [IBM]
+BSD	Berkeley Software Distribution
+BSN	Bachelor of Science in Nursing
+BSS	Block Started by Symbol
+BSTJ	Bell System Technical Journal
+BT	British Telecom
+BTAM	Basic Telecommunications Access Method [IBM]
+BThU	British Thermal Unit (BTU {q.v.} is preferred)
+BTL	Bell Telephone Laboratories
+BTO	Bachman Turner Overdrive
+BTU	British Thermal Unit
+BTW	By The Way [Net jargon]
+BU	Boston University
+BUF	B-52 bomber ("Big Ugly Fellow") [USAF]
+BV	Blessed Virgin
+BWI	Baltimore-Washington International (airport)
+BWI	British West Indies
+BX	Base eXchange (see also PX)
+c	centi- (metric 1/100)
+C	programming language (successor to B, which was based on BCPL)
+CA	California
+CA	Chartered Accountant
+CA	Chief Accountant
+CA	Chronological Age
+CA	Collision Avoidance (as in CSMA/CA (q.v.))
+CAB	Civil Aeronautics Board
+CACM	Communications of the Association for Computing Machinery
+CAD	Computer Aided Design (sometimes seen as CAD/CAM)
+CAD	Computer Aided Dispatching
+CAE	Common Applications Environment
+CAE	Computer Aided Engineering
+CAI	Computer Aided Instruction
+CAIS	Common Apse Interface Specification
+CALS	Computer-aided Acquisition and Logistics Support
+CAM	Computer Aided Management
+CAM	Computer Aided Manufacturing (sometimes seen as CAD/CAM)
+CAM	Content Addressable Memory
+CAMA	Centralized Automatic Message Accounting [Telephony]
+CAMP	Campaign Against Marijuana Planting
+CAP	Civil Air Patrol
+CAP	Columbia Appletalk Package
+CAR	Contents of the Address part of the Register (LISP)
+CARE	Committee on American Relief in Europe
+CARP	California Air Resources Board
+CASE	Computer Aided Software Engineering
+CASSIS	Classification and Search Support Information System
+CAT	Computer-Aided Tomography
+CATIS	Common Applications and Tools Integration Services
+CATV	Common Antenna TeleVision
+CATV	Community Antenna TeleVision
+CAVU	Ceiling And Visibility Unlimited
+CB	Citizens Band radio
+CBC	Canadian Broadcasting Corporation
+CBD	Cash Before Delivery
+CBD	Commerce Business Daily
+CBEMA	Computer & Business Equipment Manufacturers Association
+CBR	Chemical, Biological, Radiological warfare
+CBS	Columbia Broadcasting System [Corporate name]
+CBW	Chemical and Biological Warfare
+CC	C (language) Compiler
+CC	Carbon Copy
+CCA	Computer Corporation of America [Corporate name]
+CCAFS	Cape Canaveral Air Force Station [Space]
+CCC	Canadian Committee on Cataloging
+CCC	Civil(ian) Conservation Corps
+CCC	Command, Control, and Communications (sometimes C^3)
+CCC	Concourse Computer Center [MIT]
+CCCCM	CCC CounterMeasures (sometimes C^3CM)
+CCCI	Command, Control, Communications, and Intelligence
+CCD	Charge Coupled Device (see CID)
+CCD	Charge-Coupled Device [Space]
+CCDS	Centers for the Commercial Development of Space [Space]
+CCF	Hundred Cubic Feet
+CCI	Computer Carrier Interrupt
+CCI	Computer Consoles, Incorporated
+CCIP	Continuously Computed Impact Point
+CCIRN	Coordinating Committee for Intercontinental Research Networking
+CCIS	Common Channel Interoffice Signaling [Telephony]
+CCITT	Comite' Consultatif International Telegraphique et Telephonique
+CCITT	Consultative Committee on International Telephony and Telegraphy
+CCITT	International Telegraph and Telephone Consultative Committee
+CCR	Commitment, Concurrency, and Recovery
+CCR	Creedence Clearwater Revival [Music]
+CCRI	Community College of Rhode Island [Corporate name]
+CCRP	Continuously Computed Release Point
+CCS	Hundred Call Seconds [Telephony]
+CCS7	Common Channel Signalling (version #7) [Telephony, AT&T]
+CCSA	Common Control Switching Arrangement [Telephony]
+CCTA	Central Computer and Telecommunications Agency
+CCTV	Closed Circuit TeleVision
+CD	Carrier Detect (properly DCD (q.v.)) (EIA RS-232-C)
+CD	Certificate of Deposit
+CD	Civil Defense
+CD	Collision Detection (as in CSMA/CD (q.v.))
+CD	Compact Disk
+CDA	Call Data Accumulator
+CDA	Compound Documents Architecture
+CDC	Centers for Disease Control
+CDC	Control Data Corporation, Inc. [Corporate name]
+CDEV	Control panel DEVice
+CDIAC	Carbon Dioxide Information Analysis Center
+CDO	Community Dial Office
+CDR	CommanDeR
+CDR	Contents of the Decrement part of the Register (LISP)
+CD-ROM	Compact Disk Read Only Memory
+CD-ROM	Compact Disk Read-Only Memory [Space]
+CDSF	Commercially Developed Space Facility
+CDT	Central Daylight Time
+CDU	Control Display Unit
+CE	Chemical Engineer
+CE	Civil Engineer
+CE	Common Era (substitute for AD)
+CE	Corps of Engineers
+CE	Customer Engineer (see also FE, SE)
+CEA	Commissariat a l'Energie Atomique (Frenc Atomic Energy Commision)
+CEA	Council of Economic Advisors
+CEA	County Education Authority
+CEC	Commission of the European Communities
+CED	Committee for Economic Development
+CELSS	Controlled Ecological Life Support System [Space]
+CENS	Centre d'Etudes Nucleaires de Seclay
+CENTO	CENtral Treaty Organization
+CEO	Chief Executive Officer
+CERFnet California Education and Research Federation Network
+CERN	European Organization for Nuclear Research
+CERN	organisation (formerly Conseil) Europeenne pour la Recherche Nucleaires
+CERT	Computer Emergency Response Team
+CEVI	Common Equipment Voltage Indicator
+CF	Carry Forward
+CF	Coin First (payphone) [Telephony]
+CF	Cystic Fibrosis [Disease]
+CFA	Center For Astrophysics [Space]
+CFC	Chloro-FluoroCarbon [Chemical]
+CFC	Combined Federal Campaign
+CFD	Computational Fluid Dynamics
+CFHT	Canada-France-Hawaii Telescope [Space]
+CFI	Cost, Freight, and Insurance
+CFL	Canadian Football League
+CFO	Chief Financial Officer
+CG	Coast Guard
+CG	Commanding General
+CGA	Color Graphics Adapter
+CGCT	Compagnie Generale de Constructions Telephoniques
+CG&E	Cincinnati Gas & Electric
+CGE	Compagnie Generale d'Electricite
+CH	Cardboard Heroes
+CH	ClearingHouse
+CH	CourtHouse
+CH	Customs House
+CHA	Champions
+CHAP	CHAnnel Processor
+CHARA	Center for High Angular Resolution Astronomy [Space]
+CHI	Chill:	Adventures into the Unknown
+CHOTS	Corporate Headquarters Office Technology System
+CHP	California Highway Patrol
+CI	Cubic Inches
+CIA	Central Intelligence Agency [US Government]
+CIA	Culinary Institute of America (Hyde Park, NY)
+CIC	Carrier Identification Codes [Telephony] (10XXX codes)
+CIC	Committee on Institutional Cooperation
+CIC	Coordination and Information Center [CSNet]
+CICA	Competition in Contracting Act
+CICS	Customer Information Control System [IBM]
+CID	Caller ID [Telephony] (see also: CLID, ANI)
+CID	Central Institute for the Deaf
+CID	Charge Injection Device (see CCD)
+CID	Computer Integrated Design
+CIDIN	Common Icao Data Interchange Network
+CIM	Computer Integrated Manufacturing
+CIO	Chief Information Officer
+CIRRIS	Cryogenic InfraRed Radiance Instrument for Shuttle [Space]
+CISC	Complex Instruction Set Computer
+CIT	California Institute of Technology
+CIT	Case Institute of Technology (part of CWRU, Cleveland, OH)
+CIT	Circumstellar Imaging Telescope [Space]
+CLASP	Comprehensive Logistics Automated Support Program
+CLASS	Custom Local Area Signaling Service [Telephony]
+CLI	Command Line Interpreter
+CLID	Calling Line ID [Telephony] (see also: CID, ANI)
+CLNP	Connectionless-mode Network Protocol
+CLNS	Connectionless-mode Network Service
+CLR	Combined Line and Recording
+CLRC	Circuit Layout Record Card
+CLU	Chartered Life Underwriter
+CLUT	Color LookUp Table
+cm	centimeters
+CM	Command Module (Apollo spacecraft) [Space]
+CM	Congregation of the Mission
+CMC	Communication Machinery Corp.
+CMD	Centralized Message Distribution
+CMIP	Common Management Information Protocol
+CMIS	Common Management Information Services
+CML	Current Model Logic
+CMMU	Cache/Memory Management Unit
+CMOS	Complementary Metal Oxide Semiconductor (see MOS)
+CMOT	Common Management Information Services and Protocol Over TCP/IP
+CMRR	Common Mode Rejection Ratio
+CMS	Circuit Maintenance System
+CMSgt	Chief Master Sergeant
+CMU	Carnegie-Mellon University
+CMYK	Cyan, Magenta, Yellow, blacK
+CN	Canadian National [Corporate name, Railroading]
+CN/A	Customer Name / Address [Telephony]
+CNI	Common Network Interface [Telephony, AT&T] (Department of AT&T)
+CNN	Cable News Network
+CNO	Carbon-Nitrogen-Oxygen [Space]
+CNO	Chief of Naval Operations
+CNR	Canadian National Railways
+CNR	Carrier to Noise Ratio
+CNRI	Corporation for National Research Initiatives
+CNRS	Centre National de la Recherche Scientifique (French National Center for Scientific Research)
+CNS	Central Nervous System
+CNSR	Comet Nucleus Sample Return [Space]
+CO	Cash Order
+CO	Central Office [Telephony]
+CO	Colorado
+CO	Commanding Officer
+CO	Conscientious Objector
+C/O	in Care Of
+COB	Close Of Business
+COBE	COsmic Background Explorer [Space]
+COBOL	COmmon Business Oriented Language
+COC	Call of Cthulhu
+COCOT	Customer Owned, Coin Operated Telephone [Telephony]
+COD	Collect On Delivery; Cash On Delivery
+CODEC	COder-DECoder
+COER	Central Office Equipment Report
+COLA	Cost-Of-Living Allowance
+COM	Computer Output (on) Microfiche
+COM	Computer Output (on) Microfilm
+COMAS	Central Office Maintenance and Administration System
+COMM	Communications
+COMPACT COMmercial Product ACquisition Team
+COMPTEL COMPton TELescope (on GRO) [Space]
+COMSAT	Communications Satellite [Space]
+CONACYT Consejo Nacional de Cienca Y Tecnologia (Mexican National Council of Science and Technology)
+CONS	Connection-Oriented Networking Service
+CONS	Connection-Oriented Networking Session
+CONS	CONStruct (LISP)
+CORE	COntrolled Requirement Expression
+CORN	COmputer Resource Nucleus
+COS	Corporation for Open Systems
+COSINE	Cooperation for Open Systems Interconnection Networking in Europe
+COSMIC	COmmon System Main InterConnecting frame
+COSMIC	COmputer Software Management and Information Center
+COSMOS	COmputer System for Mainframe OperationS
+COSTAR	Corrective Optics Space Telescope Axial Replacement [Space]
+COT	Card Or Tape (NCR)
+CP	Campus Police (MIT, others probably too)
+CP	Canadian Pacific
+CP	Chemically Pure
+CP	Command Post
+CP	Command Processor
+CP	CoPy
+CP	the Canadian Press
+CPA	Certified Public Accountant
+CPE	Customer Premises Equipment
+CPE	Customer Provided Equipment
+CPFF	Cost Plus Fixed Fee
+CPI	Characters Per Inch
+CPI	Common Programming Interface
+CPL	Combined Programming Language
+CPM	Control Program for Microcomputers (sometimes CP/M)
+CPM	Control Program Monitor (sometimes CP/M)
+CPO	Chief Petty Officer
+CPO	Chief Post Office
+CPR	Canadian Pacific Railway
+CPS	Characters Per Second
+CPSR	Computer Professionals for Social Responsibility
+CPT	CaPTain
+CPU	Central Processing Unit
+CPW	Certified Public Weigher
+CQ	Change of Quarters
+CR	Carriage Return (ASCII 15 octal)
+CRA	Cambridge Redevelopment Authority
+CRAF	Comet Rendezvous / Asteroid Flyby [Space]
+CRAM	Card Random Access Memory (NCR, but maybe others)
+CRC	Chemical Rubber Company
+CRC	Cyclic Redundancy Check
+CREG	Concentrated Range Extension with Gain
+CREN	The Corporation for Research and Educational Networking (merge of BITNET and CSNet)
+CRRES	Combined Release / Radiation Effects Satellite [Space]
+CRRES	Combined Release and Radiation Effects Satellite [NASA]
+CRT	Cathode Ray Tube (also generic reference to a terminal)
+CRTC	Canadian Radio-television and Telecommunications Commission
+C&S	Chivalry & Sorcery
+CS	Civil Servant
+CS	Computer Science; Computing Science
+CS	County Seat
+CSA	Confederate States of America
+CSAB	Computing Sciences Accreditation Board
+CSACS	Centralized Status, Alarm and Control System
+CSC	Computer Sciences Corporation
+CSDC	Circuit Switched Digital Capability
+CSF	Critical Success Factor
+CSI	Commercial Systems Integration
+CSIS	Canadian Security and Intelligence Service
+CSL	Coin Supervising Link 
+CSM	Command and Service Module (Apollo spacecraft) [Space]
+CSM	Command Sergeant Major
+CSMA	Carrier Sense Multiple Access
+CSMA/CA Carrier Sense Multiple Access with Collision Avoidance
+CSMA/CD Carrier Sense Multiple Access with Collision Detection
+CSNET	Computer + Science Network (merged with BITNET to make CREN)
+CSO	Central Services Organization
+CSOC	Consolidated Space Operations Center (at Colorado Springs)
+CSP	Control Switching Point
+CSR	Control and Status Register
+CSR	Customer Service Representative [Telephony]
+CSRG	Computer Systems Research Group
+CSRS	civil Service Retirement System
+CSS	Customer Switching System
+CST	Central Standard Time
+CSU	Channel Service Unit
+CT	Central Time
+C&T	Communications & Tracking [Space]
+CT	Connecticut
+CTC	Canadian Transport Commission
+CTC	Centralized Traffic Control [Railroading]
+CTD	Computing and Telecommunications Division
+CTIO	Cerro Tololo Inter-american Observatory
+CTIO	Cerro Tololo Interamerican Observatory [Space]
+CTNE	Compania Telefonica Nacional de Espana
+CTS	Clear To Send (EIA RS-232-C)
+CTS	Compatible Timesharing System
+CTV	Canadian TeleVision network
+CU	Close-Up
+CUA	Common User Access
+CUL	See You Later [Net jargon]
+CV	Curriculum Vitae
+CW	Car Wars
+CW	Chemical Warfare
+CW	Child Welfare
+CW	Churchwarden
+CW	Churdwarden
+CW	Continuous Wave
+CWO	Cash With Order
+CWO	Chief Warrant Officer
+CWRU	Case Western Reserve University
+CXI	Common X-windows Interface
+CY	Calendar Year
+CYO	Catholic Youth Organization
+CZ	Canal Zone
+D	Depth
+DA	Days after Acceptance
+DA	Department of Agriculture
+DA	Deposit Account
+D/A	Digital to Analog converter
+DA	Directory Assistance (/C = computerized, /M = Microfilm) [Telephony]
+DA	District Attorney
+DA	Don't Answer [Telephony] (may be more general)
+DAC	Digital to Analog Converter
+DA/C	Directory Assistance/Computerized
+DACCS	Digital Access Cross Connect System [Telephony] (suspect, see DACS)
+DACS	Digital Access Cross-connect System [Telephony]
+DAD	Draft ADdendum
+DAG	Directed Acyclic Graph
+DAL	Dedicated Access Line [Telephony]
+DA/M	Directory Assistance/Microfilm
+DAP	Division Advisory Panel (of NSF (q.v.) DNCRI (q.v.))
+DAR	Daughters of the American Revolution
+DARE	Drug Abuse Resistance Education
+DARPA	Defense Advanced Research Projects Agency (of the DoD, see also ARPA)
+DASD	Direct Access Storage Device
+DAT	Digital Audio Tape
+DATA	Defense Air Transport Administration
+DAV	Disabled American Veterans
+DB	DataBase
+db	decibel(s)
+dba	doing business as
+DBF	DBase Format
+DBME	DataBase Managment Environment
+dbms	DataBase Management System (rdbms for Relational ...)
+DBRAD	Data Base Relational Application Directory
+DC	Direct Current (dc, see also AC)
+DC	District of Columbia
+DCA	Defense Communications Agency
+DCA	Distributed Communication Architecture
+DCA	Document Content Architecture
+DCC	Descriptive Cataloging Committee
+DCCO	Defense Commercial Communications Office
+DCD	Data Carrier Detect (sometimes CD (q.v.)) (EIA RS-232-C)
+DCE	Data Communication Equipment
+DCL	Digital Command Language
+DCP	Distributed Communications Processor
+DCTS	Dimension Custom Telephone Service
+DD	Daredevils
+DD	Data Dictionary
+DD	Days after Date
+DD	Demand Draft
+DD	Dishonorable Discharge
+DD	Disk Drive
+DD	Doctor of Divinity
+D&D	Dungeons & Dragons
+DDC	Digital Data Converter
+DDCU	DC-to-DC Converter Unit [Space]
+DDD	Direct Distance Dialing [Telephony] (principally US, elsewhere STD)
+DDL	Document Description Language
+DDN	Defense Data Network
+DDP	Distributed Data Processing
+DDS	Dataphone Digital Service [AT&T]
+DDS	Digital Data Service
+DDS	Direct Digital Service
+DDS	Doctor of Dental Science
+DDS	Doctor of Dental Surgery
+DDT	DEC Debugging Tape
+DDT	Di-<something> (pesticide)
+DDT	Dynamic Debugging Technique
+DE	Delaware
+DEA	Drug Enforcement Agency [US Government]
+DEAR	Department of Energy Acquisition Regulation
+DEC	Digital Equipment Corporation [Corporate name]
+DECUS	Digital Equipment Corporation Users Society
+DES	Data Encryption Standard [NIST]
+DEW	Distant Early Warning (as in DEW Line)
+DF	Damage Free
+D/F	Direction Finding
+DFC	Distinguished Flying Cross
+DFD	Data Flow Diagram
+DFE	Data Flow Editor
+DFM	Distinguished Flying Medal
+DFN	Deutsche Forschungsnetz Verein (German Research Network Association)
+DFRF	Dryden Flight Research Facility [Space]
+DFS	Depth-First Search
+DFW	Dallas-Ft.Worth (regional airport)
+DG	Data General [Corporate name]
+DG	Dei Gratia (by the grace of God)
+DG	Director General
+DGSC	Defense General Supply Center
+DHHS	Department of Health and Human Services
+DHSS	british Department of Health and Social Security
+DHSS	Department of Health and Social Security (British)
+DIA	Document Interchange Architecture
+DIAD	(magnetic) Drum Information Assembler / Dispatcher
+DIAL	Direct Information Access Line
+DIAS	Defense Automatic Integrated System
+DID	Direct Inward Dialing [Telephony]
+DIF	Document Interchange Format
+DIN	Deutsches Institut fur Normung
+DIRE	Dire Is Really Emacs
+DIS	Draft International Standard [ISO]
+DISA	Data Interchange Standards Association
+DISOSS	Distributed Office Support System [IBM]
+DIY	Do It Yourself
+DJ	Disc Jockey
+DLA	Defense Logistics Agency
+DLI	Data Link Interface(?)
+DLL	Data Link Layer [ISO OSI]
+DLL	Dial Long Line equipment
+DLO	Dead Letter Office
+DM	Dungeon Master
+DMA	Direct Memory Access
+DMD	Doctor of Dental Medicine
+DME	Distance Measuring Equipment
+DMF	Probably part of an X.400 address in Europe
+DMOS	Diffusion Metal Oxide Semiconductor (see MOS)
+DMSP	Defense Meteorological Satellite Program [Space]
+DMV	Department of Motor Vehicles
+DMV	Department of Motor Vehicles (Calif)
+DMZ	DeMilitarized Zone
+DNA	DeoxyriboNucleic Acid
+DNA	Digital Network Architecture [DEC]
+DNCRI	[NSF] (q.v.) Division of Networking and Communications Research and Infrastructure
+DNHR	Dynamic NonHierarchical Routing
+DNIC	Data Network Identification Code [Telephony]
+DNIS	Dialed Number Identification Service (see also DID) [Telephony]
+DNL	Director of Naval Laboratories
+DNR	Dialed Number Recorder [Telephony]
+DNS	Domain Name System
+DOA	Dead On Arrival
+DOB	Date Of Birth
+DOC	Dynamic Overload Control
+DOD	Department Of Defense [US Government] (sometimes DoD)
+DOE	Department of Energy [US Government]
+DOHC	Dual OverHead Cams [Automotive]
+DOMAIN	Distributed Operating Multi Access Interactive Network (Apollo)
+DOS	Disk Operating System
+DOT	Department Of Transportation [US Government]
+DOT&E	Director, Operational Test and Evaluation
+DOV	Data Over Voice [Telephony]
+DOY	Day of Year
+DP	Data Processing
+DP	Dial Pulse [Telephony]
+DP	Displaced Persons (expelled from native land)
+DP	Display Postscript
+DP	Double Penetration
+DP	Double Play
+DP	Draft Proposal
+DPA	Delegation of Procurement Authority
+DPANS	Draft Proposed American National Standard
+DPI	Dots Per Inch
+DPS	Display PostScript
+DQ	Dairy Queen
+DQ	Dragon Quest
+DQDB	Distributed Queue Dual Bus (IEEE 802.6) [Telephony, Networking]
+DQL	Database Query Language
+DR	Dead Reckoning
+DR	Dining Room
+DRAM	Dynamic Random Access Memory (as opposed to static RAM)
+DRD	Data Reading Device
+DRE	Directional Reservation Equipment
+DRG	Democratic Republic of Germany (East Germany)
+DRI	Defense Research Internet
+DRI	Digital Research, Incorporated [Corporate name]
+d.s.	died single [Genealogy]
+DS	Double-Sided
+DS	Draft Standard
+DSA	Dial System Assistance
+DSE	Data Structure Editor
+DSEE	Domain Software Engineering Environment
+DSM	Distinguished Service Medal
+DSO	Distinguished Service Order
+DSP	Decessit Sine Prole (died without issue)
+DSP	Digital Signal Processing
+DSRI	Digital Standard Relational Interface
+DSS	Decision Support System
+DSS	Direct Station Selection [Telephony]
+DST	Daylight Saving Time
+DSTN	Double SuperTwisted Nematic
+DSU	Digital Service Unit
+DT	Delirium Tremens
+DTE	Data Terminal Equipment
+DTF	Dial Tone First payphone [Telephony]
+DTMF	Dial Tone Multi Frequency [Telephony]
+DTP	DeskTop Publishing
+DTR	Data Terminal Ready (EIA RS-232-C)
+DUI	Driving Under the Influence
+DUT	Device Under Test
+DV	Deo Vo lente (God willing)
+DVM	Digital Volt Meter
+DVM	Doctor of Veterinary Medicine
+DWAPS	Defense Warehousing Automated Processing System
+DWI	Died Without Issue [Genealogy]
+DWI	Driving While Intoxicated
+DWIM	Do What I Mean
+DX	Distance (as in long distance radio communication)
+DXT	Data eXtractT facility
+d.y.	died young [Genealogy]
+E	East
+E	Espionage
+EADASS	Engineering and Administrative Data AcquiSition System
+EAFB	Edwards Air Force Base [Space]
+EAN	Certainly part of an X.400 Address in Europe
+EARN	European Academic Research Network
+EAS	Extended Area Service (or Engineering Admin. System) 
+EASI	European Academic Supercomputer Initiative (of IBM)
+EBCDIC	Extended Binary Coded Decimal Interchange Code
+EC	Exchange Carrier [Telephony]
+ECAFE	Economic Commission for Africa and the Far East
+ECASS	Electronically Controlled Automatic Switching System
+ECASS	Export Control Automated Support System
+ECC	Error Correction Code
+ECC	Error Correction Code (corrects error in memory or transmission)
+ECCM	Electronic Counter-CounterMeasures
+ECDO	Electronic Community Dial Office
+ECG	ElectroCardioGram
+ECL	Emitter Coupled Logic (see also TTL)
+ECLSS	Environmental Control and Life Support System [Space]
+ECM	Electronic Counter Measure
+ECM	European Common Market
+ECMA	European Computer Manufacturers Association
+ECO	Ecological
+ECO	Electronic Central Office
+ECO	Engineering Change Order
+ECPA	Electronic Communications Privacy Act [US law]
+ECS	Environmental Control System [Space]
+ECT	ElectroConvulsive Therapy
+ECV	Electric Cargo Vehicle [NASA OEXP]
+ED&D	Expert Dungeons & Dragons
+EDGAR	Electronic Data Gathering, Analysis, and Retrieval
+EDI	Electronic Data Interchange
+EDIF	Electronic Design Interchange Format
+EDO	Extended Duration Orbiter [Space]
+EDP	Electronic Data Processing
+EDS	Electronic Data Systems
+EDT	Eastern Daylight Time
+EDTA	Ethylene Diamine Tetraacetic Acid
+EDTCC	Electronic Data Transmission Communications Central
+EE	Electrical Engineer
+EE	Electrical or Electronics Engineer
+EEC	European Economic Community
+EEC	European Economic Comunity
+EEG	ElectroEncephaloGram
+EEL	Epsilon Extension Language
+E&EO	Errors and Omissions Excepted
+EEPROM	Electrically Erasable Programmable Read Only Memory
+EFF	Electronic Frontier Foundation
+e.g.	??? (Latin(?): for example)
+EGA	Enhanced Graphics Adapter
+EGP	Exterior Gateway Protocol [Internet]
+EGRET	Energetic Gamma Ray Experiment Telescope (on GRO) [Space]
+EHF	Extremely High Frequency (30-300GHz)
+EIA	Electronic Industries Association
+EINE	EINE Is Not Emacs
+EISA	Extended Industry-Standard Architecture
+EISS	European Intelligence Support System
+EKG	ElectroKardioGramm (see ECG)
+EL	ElectroLuminescent (as in display)
+ELF	Extremely Low Frequency
+ELO	Electric Light Orchestra
+ELP	Emerson, Lake and Palmer (or Powell)
+ELV	Expendable Launch Vehicle [Space]
+E&M	``Ear and Mouth''; receive and transmit leads of a signalling system
+EM	Enlisted Man (see EW)
+EMA	Electronic Mail Association
+EMACS	Editor MACroS
+EMACS	Eight Megabytes And Constantly Swapping
+E-MAIL	Electronic MAIL
+EMF	ElectroMotive Force
+EMF	ElectroMotive Force (voltage)
+EMI	ElectroMagnetic Interference
+EMP	Electromagnetic Pulse
+EMPRESS EnvironMental Pulse Radiation Environment Simulator for Ships
+EMR	ElectroMagetic Response
+EMR	ElectroMagnetic Response
+EMS	Electronic Message System
+EMS	Extended Memory Specification
+EMT	Emergency Medical Technician
+EMU	ElectroMagnetic Unit
+EMU	Extravehicular Mobility Unit [Space]
+ENIAC	Electronic Numerical Integrator and Calculator
+ENS	ENSign
+EO	End Office [Telephony]
+EO	Erasable Optical
+EOF	End Of File
+EOM	End Of Month
+EOS	Earth Observing System [Space]
+EOWG	Engineering and Operations Working Group (under FNC)
+EP	Experience Points
+EP	Extended Play
+EPA	Environmental Protection Agency
+EPOS	Engineering and Project-management Oriented Support system
+EPRI	Electric Power Research Institute
+EPROM	Erasable Programmable Read Only Memory
+EPS	Encapsulated PostScript
+EPT	Empire of the Petal Throne
+EQ	Educational Quotient (see IQ)
+ER	Emergency Room
+ERA	Earned Run Average
+ERA	Entity-Relationship-Attribute
+ERA	Equal Rights Amendment
+ERD	Entity-Relation Diagram
+ERE	Entity Relationship Editor
+ERT	Earth Resources Technology [Space]
+ES	Expert System
+ESA	European Space Agency
+ESA	European Space Agency [Space]
+ESAC	Electronic Systems Assistance Center
+ESDI	Enhanced Standard Device Interface
+ESE	East South East
+ESF	Extended Superframe Format [Telephony]
+ESM	Electronic Support Measures
+ESnet	Energy Sciences network (DoE) [Networking]
+ESO	European Southern Observatory
+ESO	European Southern Observatory [Space]
+ESP	Extra Sensory Perception
+ESPS	Entropic Signal Processing System
+ESS	Electronic Switching System [Telephony]
+ESSEX	Experimental Solid State EXchange
+EST	Eastern Standard Time
+ET	Eastern Time
+ET	Extra Terrestrial [Space]
+ET	(Shuttle) External Tank [Space]
+ETA	Estimated Time of Arrival
+ET/ACC	External Tank/Aft Cargo Carrier (see also ET) [Space]
+ETC	Et cetera, and so on...
+ETD	Estimated Time of Departure
+ETFD	Electronic Toll Fraud Device [Telephony]
+ETH	Eidgn\:oessiche Technische Hochschule (Swiss Federal Institute of Technology)
+ETLA	Extended Three Letter Acronym [Space]
+ETO	Earth-to-Orbit [Space]
+ETR	Eastern Test Range [Space]
+ETS	Electronic Translator System
+ETV	Education TeleVision
+EUUG	European Unix User Group
+EUV	Extreme UltraViolet
+EUV	Extreme UltraViolet [Space]
+EUVE	Extreme UltraViolet Explorer [Space]
+EVA	ExtraVehicular Activity
+EVA	ExtraVehicular Activity [Space]
+EVX	Electronic Voice eXchange
+EW	Electronic Warfare
+EW	Enlisted Woman (see EM)
+EWOS	European Workshop for Open Systems
+FA	Football Association (British soccer--a word derived from Association)
+FAA	Federal Aviation Agency [US Government]
+FACD	Foreign Area Customer Dialing
+FAO	Food and Agriculture Organization [US Government]
+FAQ	Frequently Asked Questions [Space]
+FAR	Federal Acquisition Regulations
+FAS	Foreign Agricultural Service
+FAS	Free Alongside Ship
+FASST	Flexible Architecture Standard System Technology
+FAST	Fast Auroral SnapshoT explorer [Space]
+FAT	Foreign Area Translation
+FAX	FAcsimile
+FB	Freight Bill
+FBI	Federal Bureau of Investigation [US Government]
+FCC	Federal Communications Commission [US Government]
+FCC	Federal Computer Conference
+FCCSET	Federal Coordinating Committee for Science, Education and Technology (under OSTP) {Maybe Eng. for Edu.??}
+FCO	Field Change Order
+FCO	Frequency Controlled Oscillator
+FCS	Frame Check Sequence
+FDA	Food and Drug Administration [US Government]
+FDDI	Fiber Digital Data Interface
+FDDI	Fiber Distributed Data Interface
+FDHD	Floppy Drive High Density
+FDIC	Federal Deposit Insurance Corporation
+FDIC	Federal Deposit Insurance Corporation [US Government]
+FDM	Frequency Division Multiplexing
+FDR	Franklin Delano Roosevelt [US President]
+FE	Field Engineer (see also CE, SE)
+FEA	Finite Element Analysis
+FEDSIM	FEDeral Systems Integration and Management center
+FEMA	Federal Emergency Management Agency
+FEMF	Foreign EMF (q.v.) (a.k.a. Cross Battery) [Telephony]
+FEPC	Fair Employment Practices Commission
+FEPG	Federal Engineering Planning Group (of FNC under EOWG, originally of FRICC)
+FERS	Federal Employees Retirement System
+FET	Federal Excise Tax
+FET	Field Effect Transistor
+FFA	Future Farmers of America
+FFT	Fast Fourier Transform
+FFT	Fast Fourier Transform [Space]
+FG-A	Feature Group A [Telephony] (Line Side termination for LD carriers)
+FG-B	Feature Group B [Telephony] (Trunk Side termination for LD carriers (aka ENFIA B), 950 service)
+FG-D	Feature Group D [Telephony] (Trunk Side termination for LD carriers, 1+ service)
+FGS	Fine Guidance Sensors (on HST) [Space]
+FHA	Federal Home Administration
+FHA	Future Homemakers of America
+FIB	Focused Ion Beam
+FICA	Federal Insurance Contributions Act
+FIDO	Fog Investigation Dispersal Operation
+FIFO	First In First Out (as in registers and buffers)
+FILO	First In Last Out (see also FIFO)
+FIMS	Forms Interface Management System
+FINE	FINE Is Not Emacs
+FIO	Frequency In and Out
+FIPS	Federal Information Processing Standard
+FIR	Far InfraRed [Space]
+FIR	Finite Impulse Response
+FIRMR	Federal Information Resource Management Regulation
+FIT	Federal Information Technologies, inc.
+FITS	Flexible Image Transport System [Space]
+FIX	Federal Inter-agency eXchange [Networking]
+FL	Florida
+FLACC	Full Level Algol Checkout Compiler
+FLEA	Four Letter Extended Acronym
+FLL	Fixed Loss Loop [Telephony]
+FLOP	FLoating point OPeration
+FLOPS	FLoating-point OPerations per Second
+FLRA	Federal Labor Relations Authority
+FM	Frequency Modulation
+FMB	Federal Maritime Board
+FMCS	Federal Mediation and Conciliation Service
+FMR	Follow Me Roaming [Telephony]
+FMS	Financial Management Service (Treasury Dept) [US Government]
+FMS	Forms Management System
+FNC	Federal Networking Council (formerly FRICC) [US Government] (under OSTP)
+FO	Foreign Office
+FO	Forward Observer
+FOAC	Federal Office Automation Center
+FOB	Free On Board
+FOB	Full Of Bull (aperiodical of) [TMRC]
+FOC	Faint Object Camera (on HST) [Space]
+FOC	Free Of Charge
+FOIA	Freedom Of Information Act
+FOIMS	Field Office Information Management System
+FOIRL	Fiber Optic Inter(?) Repeater(?) Link(?) [Ethernet]
+FOOBAR	See FUBAR [Net jargon]
+FOR	Free On Rail
+FORCS	Faa's Operational Reporting Communication System
+FORD	Fix Or Repair Daily [Humor]
+FORD	Found On Road Dead [Humor]
+FORTRAN FORmula TRANslator
+FOS	Faint Object Spectrograph (on HST) [Space]
+FOSE	Federal Office Systems Exposition
+FOT	Fiber Optic Transceiver [Ethernet]
+FOT	Free On Truck
+FOV	Field Of View
+FPA	Floating Point Accelerator
+FPC	Fish Protein Concentrate
+FPE	Floating Point Engine
+FPHA	Federal Public Housing Authority
+FPLA	Field Programmable Logic Array (see PLA)
+FPM	Feet Per Minute
+FPO	Field Post Office
+FPO	Fleet Post Office
+fps	Feet Per Second
+FPU	Floating Point Unit
+FQDN	Fully Qualified Domain Name [TCP/IP] (DNS)
+FR	Frame Relay [Telephony, Networking]
+FRACTAL FRACTional dimensionAL
+FRED	Fred Resembles Emacs Deliberately
+FRG	Federal Republic of Germany (West Germany)
+FRICC	Federal Research Internet Coordinating Committee (now FNC, q.v.) [Networking, US Government]
+FROG	Free Rocket Over Ground
+FRPG	Fantasy Role Playing Game
+FRS	Federal Reserve System
+FS	Field Service
+FS	File System
+FS	Full Standard
+FSF	Free Software Foundation
+FSK	Frequency Shift Keying
+FSLIC	Federal Savings and Loan Insurance Corporation
+FSS	Federal Supply Service
+FSW	Forward Swept Wings
+Ft	Foot
+FTAM	File Transfer And Management (ISO upscale FTP)
+FTC	Federal Trade Commission
+FTL	Faster Than Light
+FTP	File Transfer Protocol (esp. of the TCP/IP suite)
+FTS	Federal Telecommunications System [Telephony, US Government]
+FTS	Flight Telerobotic Servicer [Space]
+FUBAR	F***ed Up Beyond All Recognition/Repair
+FUBAR	Fouled Up Beyond All Recognition/Repair
+FUSE	Far Ultraviolet Spectroscopic Explorer [Space]
+FW	Fringeworthy
+FWD	Front Wheel Drive
+FWHM	Full Width at Half Maximum [Space]
+FX	Foriegn eXchange [Telephony]
+FY	Fiscal Year
+FYI	For Your Information
+G	General audiences [Movie rating]
+G	Gravity
+GA	Gamblers Anonymous
+GA	General Assembly
+GA	General Average
+GA	General of the Army
+GA	Georgia
+GAAP	Generally Accepted Accounting Principles
+GAB	Group Audio Bridging [Telephony]
+Gaia	Earth's self-sustaining Biosphere (Not an acronym, from some ancient language, I think)
+GAN	Global Area Network
+GAO	General Accounting Office [US Government]
+GAR	Grand Army of the Republic
+GARR	Gruppo Arminizzazione Rete por la Ricerca (Italian Research Network Harmonization Group)
+GAS	Get-Away Special [Space]
+GATT	General Agreement on Tariffs and Trade
+GAW	Guaranteed Annual Wage
+GAW	Guarenteed Annual Wage
+GB	Gangbusters
+GB	GigaByte
+GB	Great Britain
+GBIP	General Purpose Interface Bus
+GBT	Green Bank Telescope [Space]
+GC	Garbage Collection (LISP)
+GC	Gas Chromatograph (or Chromatography)
+GCA	Ground Controlled Approach
+GCC	Gnu C Compiler
+GCD	Ground Controlled Descent
+GCL	Graphics Command Language
+GCM	General Court Martial
+GCR	Group-Coded Recording (magnetic tape, 6250 bpi)
+GCT	Greenwich Civil Time
+GCVS	General Catalog of Variable Stars [Space]
+GDB	Gnu DeBugger
+GDP	Gross Domestic Product
+GDS	Great Dark Spot [Space]
+GE	General Electric
+GEM	Giotto Extended Mission [Space]
+GEM	Graphics Environment Manager
+GEO	Geosynchronous Earth Orbit [Space]
+GHQ	General HeadQuarters
+GHRS	Goddard High Resolution Spectrograph (on HST) [Space]
+GHz	Giga HertZ (unit of frequency, 1,000,000,000 cycles per second)
+GI	Galvanized Iron
+GI	Gastro Intestinal (as in upper GI)
+GI	General Issue
+GI	Government Issue
+GID	Group ID [UNIX]
+GIF	Graphics Interchange Format
+GIGO	Garbage In Garbage Out
+GIN	Graphics INput
+GISS	Goddard Institute for Space Studies
+GKS	Graphical Kernel Standard
+GKS	Graphics Kernel System
+GM	Game Master
+GM	General Manager
+GM	General Motors [Corporate name, Automobile]
+GM	Guided Missile
+GMBH	Gesellschaft Mit Beschraenkter Haftung
+GMC	Giant Molecular Cloud [Space]
+GMD	Gesellschaft f\:ur Mathematik und Datenverarbeitung (German Institute for Mathematics and Data Processing)
+GMRT	Giant Meter-wave Radio Telescope [Space]
+GMT	Greenwich Mean Time (also called UT)
+GNP	Gross National Product
+GNU	GNU's Not Unix
+GOES	Geostationary Orbiting Environmental Satellite [Space]
+GOES	Geostationary Orbiting Environmental Satellites [Space]
+GOSIP	Government Open Systems Interconnection Profile (calls for government procurement of ISO/CCITT products)
+GOSIP	Government OSI Profile
+GP	General Practitioner
+GP	General Purpose (RR engines and origin of Jeep) [Railroading, Automobile]
+GPC	General Purpose Computer [Space]
+GPI	Graphics Programming Interface
+GPIB	General Purpose Interface Bus
+GPIB	General-Purpose Interface Bus
+GPL	GNU General Public Licence
+GPO	General Post Office
+GPO	Government Printing Office
+GPS	Global Positioning System
+GPS	Global Positioning System [Space]
+GQ	General Quarters
+GRB	Gamma Ray Burst(er)
+GREP	Global Regular Expression Print, g/re/p, (UNIX command)
+GREP	Global Regular Expression Print [UNIX]
+GRO	Gamma Ray Observatory [Space]
+GRS	Gamma Ray Spectrometer (on Mars Observer) [Space]
+GRS	Great Red Spot [Space]
+GS	General Schedule
+GS	Glide Slope
+GSA	General Services Administration
+GSA	General Services Adminstration [US Government]
+GSA	Girl Scouts of America
+GSBCA	General Services administration Board of Contract Appeals
+GSC	Guide Star Catalog (for HST) [Space]
+GSFC	Goddard Space Flight Center (Greenbelt, MD) [NASA, Space]
+GSI	Gesellschaft f\:ur Schwerionenforschung (German Federal Research Institute for Heavy Ion Research)
+GSM	Global System Mobile
+GSM	Groupe Speciale Mobile (Committee Designing preceding)
+GSTS	Ground-based Surveillance and Tracking System
+GT	Gross Ton
+GTE	General Telephone and Electric [Corporate name]
+GTO	Geostationary Transfer Orbit [Space]
+GTSI	Government Technology Services, inc.
+GUI	Graphical User Interface
+GW	Gamma World
+GWEN	Ground Wave Emergency Network
+GWM	Generic Window Manager [X]
+H	Harn
+H	Height
+HACD	Home Area Customer Dialing
+HAL	Heuristically programmed ALgorithmic computer (movie 2001)
+HAM	Hold And Modify
+HAO	High Altitude Observatory [Space]
+Hb	HemogloBin
+HBM	Her British Majesty; His British Majesty
+HBO	Home Box Office
+HC	Holy Communion
+HC	House of Commons
+HCFA	Health Care Financing Administration
+HCFC	hydrochlorofluorocarbon [Chemical]
+HCL	High Cost of Living
+HD	Hard Disk
+HD	Heavy Duty
+HD	Henry Draper catalog entry [Space]
+HDA	Head Disk Assembly (in winchester disk drives)
+HDBV	Host Data Base View
+HDL	High Density Lipoprotein
+HDLC	High-level Data Link Control [Networking]
+HDTV	High Definition Television
+HE	His Eminence
+HE	His Excellency
+HEAO	High Energy Astronomical Observatory [Space]
+HEDM	High Energy-Density Matter [Space]
+HEMP	Help End Marijuana Prohibition
+HEO	High Earth Orbit [Space]
+HEPnet	High Energy Physics network [Networking]
+HERO	Hazards of Electromagnetic Radiation to Ordnance
+HF	High Fantasy
+HF	High Frequency (3-30MHz)
+HFE	Human Factors Engineering
+HFS	Hierarchical File System
+HGA	High Gain Antenna [Space]
+HHS	(US Department of) Health and Human Services
+HI	Hawaii
+HIIPS	Hud Integrated Information Processing Services
+HLC	Heavy Lift Capability [Space]
+HLL	High-Level Language
+HLV	Heavy Lift Vehicle [Space]
+HMC	Halley Multicolor Camera (on Giotto) [Space]
+HMOS	High performance Metal Oxide Semiconductor (see MOS)
+HMS	His/Her Majesty's Ship
+HMT	His/Her Majesty's Transport
+HNPA	Home Numbering Plan Area [Telephony]
+HOBIS	HOtel Billing Information System 
+HOL	High-Order System
+HOTOL	HOrizontal Take-Off and Landing
+HP	Hewlett Packard, Inc. [Corporate name]
+HP	High Pressure
+HP	Higher Power (sort of an AA "in" term, usually God)
+HP	Hit Points
+HP	HorsePower
+HPGe	High Purity Germanium
+HPL/T	High-Productivity Languages/Tools
+HQ	HeadQuarters
+HR	Hertzsprung-Russell (diagram) [Space]
+HR	House of Representatives
+HRH	Her Royal Highness
+HRH	His Royal Highness
+HRI	High Resolution Imager (on ROSAT) [Space]
+HS	High School
+HSB	Hue, Saturation, Brightness
+HSP	High Speed Photometer (on HST) [Space]
+HST	Hawaiian Standard Time
+HST	Hubble Space Telescope [Space]
+HT	High Tension (as in electric power transmission)
+HTK	Hits To Kill
+HUAC	House Unamerican Activities Committee
+HUD	Heads Up Display
+HUD	Housing and Urban Development [US Government]
+HUPD	Harvard University Police Department
+HUT	Hopkins Ultraviolet Telescope (ASTRO package) [Space]
+HV	High Voltage
+HVAC	Heating, Ventilation, and Air Conditioning
+HW2000	Highway 2000
+HWM	High-Water Mark
+Hz	HertZ (unit of frequency, cycles per second)
+IAB	Internet Activities Board [Networking]
+IAEA	International Atomic Energy Agency
+IANA	Internet Assigned Numbers Authority (IANA@ISI.EDU)
+IATA	International Air Transport Association
+IAU	International Astronomical Union [Space]
+IAUC	IAU Circular [Space]
+IBM	Ingrained Batch Mentality
+IBM	International Business Machines, Inc. [Corporate name]
+IBM	Itty Bitty Machines
+IBT	Illinois Bell Telephone
+IC	Integrated Circuit
+IC	Interexchange Carrier [Telephony] (see also IEC, IXC)
+ICB	Interstate Computer Bank
+ICBM	InterContinental Ballistic Missile
+ICE	In-Circuit Emulator
+ICE	International Cometary Explorer [Space]
+ICI	Imperial Chemical Industries
+ICJ	International Court of Justice
+ICL	International Computers Ltd.
+ICMP	Internet Control Message Protocol
+ICP	Integrated Channel Processor
+ICP	Inventory Control Points
+ICRC	International Cosmic Ray Conference
+ID	Idaho
+ID	IDentification
+IDA	Intercommunication Data Areas
+IDA	International Dark-sky Association [Space]
+IDA	International Development Association
+IDDD	International Direct Distance Dial [Telephony]
+IDE	Interactive Development Environments, inc
+IDF	Intermediate Distributing Frame [Telephony]
+IDL	Interactive Data Language [Space]
+IDV	Interlibrational Derived Vehicle [Space]
+i.e.	???? (Latin(?): in other words (?))
+IE	Indo-European
+IEC	Inter-Exchange Carrier [Telephony] (see also IC, IXC)
+IEE	Institute of Electrical Engineers [UK]
+IEEE	Institute of Electrical and Electronic Engineers
+IETF	Internet Engineering Task Force
+IF	Intermediate Frequency (as in IF stage)
+IFB	Invitation For Bids
+IFC	International Finance Corporation
+IFC	International Freighting Corporation
+IFF	Identification - Friend or Foe
+IFF	Interchange File Format
+IFLA	International Federation of Library Associations
+IFR	Instrument Flight Rules [Aviation]
+IGES	Initial Graphics Exchange Standard
+IGM	InterGalactic Medium [Space]
+IGY	International Geophysical Year
+IGY	International Geophysical Year [Space]
+IHP	Indicated HorsePower
+IHS	Integrated Hospital Support
+IIA	Information Industry Association
+IIE	Institute of Industrial Engineers
+IIHF	International Ice Hockey Federation
+IIL	Integrated Injection Logic
+ILO	International Labor Organization
+ILS	Instrument Landing System
+ILV	Industrial Launch Vehicle [Space]
+IMF	International Monetary Fund
+IMHO	In My Humble Opinion [Net jargon]
+IMO	In My Opinion [Net jargon]
+IMP	Interface Message Processor [ARPANET/MILNET] (replaced by PSN)
+IMSL	International Mathematical Subroutine Library
+IN	Indiana
+INADS	INitialization and ADministration System [Telephony]
+INRA	Iesus Nazerenus Rex Iudaeorum (Jesus of Nazareth, King of the Jews)
+INRIA	Institut National de Recherche en Informatique et Automatique
+INS	Immigration and Naturalization Service
+INTAP	INteroperability Technology Association for information Processing
+INWATS	INward Wide Area Telephone Service [Telephony]
+I/O	Input/Output
+IO	Input/Output (sometimes I/O)
+IOC	International Operating Center [Telephony, US]
+IOD	Identified Outward Dialing
+IOOF	International Order of Odd Fellows
+IOTA	Infrared-Optical Telescope Array [Space]
+IOTA	International Occultation Timing Association [Space]
+IOU	I Owe you(U)
+IP	Information Provider [Telephony]
+IP	Innings Pitched
+IP	Intermediate Point
+IP	Internet Protocol
+IPC	Inter-Process Communication
+IPE	Integrated Programming Environment
+IPMS	InterPersonal Message Services
+IPS	Inertial Pointing System [Space]
+IPS	Information Processing Standards
+IPSE	Integrated Project-Support Environment
+IQ	Intelligence Quotient (see EQ)
+IR	Index Register
+IR	Infra-Red
+IRA	Individual Retirement Account
+IRA	Irish Republican Army
+IRAF	Image Reduction and Analysis Facility [Space]
+IRAS	InfraRed Astronomical Satellite [Space]
+IRBM	Intermediate Range Ballistic Missile
+IRDS	Information Resource Dictionary Standard
+IRDS	InfraRed Detection Set
+IRE	Institute of Radio Engineers (old name for the now IEEE, which see)
+IRM	Information Resources Management
+IRMS	Information Resources Management Service
+IRS	Internal Revenue Service
+IRTF	Internet Research Task Force
+IS	Information Systems
+IS	International Standard [ISO] (Beyond the DIS Stage)
+ISA	Industry-Standard Architecture
+ISAM	Indexed Sequential Access Method
+ISAS	Institute of Space and Astronautical Science (Japan) [Space]
+ISBD	International Bibliographic Description
+ISC	Information Services Center
+ISC	International Switching Center
+ISCH	Interstitial-Cell-Stimulating Hormone (same as LH)
+ISDN	Integrated Services Digital Network [Telephony]
+ISDT	Integrated Systems Development Tool
+ISEE	International Sun Earth Explorer (usually ISEE-3)
+ISF	Information Systems Factory
+ISFUG	Integrated Software Federal User Group
+ISI	Information Sciences Institute
+ISM	InterStellar Medium [Space]
+ISO	Infrared Space Observatory [Space]
+ISO	International Organization for Standardization 
+ISO	International Standards Organization [Space]
+ISODE	ISO Development Environment
+ISOO	Information Security Oversight Office
+ISPM	International Solar Polar Mission
+ISPM	International Solar Polar Mission (now Ulysses) [Space]
+ISR	Institute of Snow Research
+ISRG	Independent Space Research Group
+ISV	Independent Software Vendor
+ISY	International Space Year [Space]
+IT	Industrial Technology
+IT	Information Technology
+ITC	Inter-Task Communication
+ITS	Incompatible Timesharing System
+ITT	International Telephone and Telegraph
+ITU	International Telecommunications Union
+ITUSA	IT Users Standards Association
+IUE	International Ultraviolet Explorer [Space]
+IUS	Inertial Upper Stage
+IUS	Inertial Upper Stage [Space]
+IUV	Interlibrational Utility Vehicle [Space]
+IXC	Inter-eXchange Carrier [Telephony] (see also IC, IEC)
+IXI	International (pan-European) X.25 Infrastructure
+JACM	Journal of the Association for Computing Machinery
+JANET	Joint Academic Network (UK)
+JBS	John Birch Society
+JC	Jesus Christ
+JC	Joint Compound (plumbing)
+JC	Julius Caesar
+JC	Junior College
+JCA	Jewelry Crafts Association
+JCAC	Joint Civil Affairs Committee
+JCAE	Joint Committee on Atomic Energy
+JCEE	Joint Council on Economic Education
+JCET	Joint Council on Educational Television
+JCS	Joint Chiefs of Staff
+JD	Justice Department
+JDS	John Dewey Society
+JEM	Japanese Experiment Module (for SSF) [Space]
+JES	John Ericsson Society
+JET	Joint European Torus (fusion research)
+JFK	John F. Kennedy
+JFK	John F. Kennedy (international airport)
+JFMIP	Joint Financial Management Improvement Program
+JGR	Journal of Geophysical Research
+JGR	Journal of Geophysical Research [Space]
+JI	Justice, Inc.
+JIC	Joint Intelligence Center
+JIC	Just in Case
+JILA	Joint Institute for Laboratory Astrophysics [Space]
+JIM	Job Information Memorandum
+JINTACCS	Joint INteroperability of TActical Command and Control Systems
+JIS	Japan Industrial Standards
+JISC	Japanese Industrial Standards Committee
+JIT	Just In Time
+JMS	John Milton Society
+JNT	Joint Network Team (UK)
+JO	Job Order
+JO	Junior Officer
+JOVE	Jonathan's Own Version of Emacs
+JOVIAL	Jules Own Version of the International Algorithmic Language
+JPL	Jet Propulsion Laboratory
+JPL	Jet Propulsion Laboratory [Space]
+JRC	Junior Red Cross
+JSC	Johnson Space Center
+JSC	Johnson Space Center (NASA) [Space]
+JSD	Jackson System Development
+JSRC	Joint Services Review Committee
+JTIDS	Joint Tactical Information Distribution Systems
+JV	Junior Varsity
+JvNC	John von Neumann (Super Computer) Center
+JvNCnet John von Neumann (Super Computer) Center network
